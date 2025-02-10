@@ -121,20 +121,4 @@
     border-top: 1px solid #fff4;
   }
   
-  /* Footer Section */
-  footer {
-    text-align: center;
-    color: #fff;
-    background-color: #202020;
-    padding: 10px;
-    font-size: 1em;
-    margin-top: 20px;
-    width: 100%;
-    position: absolute;
-    bottom: -10px;
-  }
-  
-  footer p {
-    margin: 5;
-  }
-  
+ 
